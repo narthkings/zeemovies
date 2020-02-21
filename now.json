@@ -1,0 +1,11 @@
+{
+  "name": "zeemovies",
+  "version": 2,
+  "alias": ["moviez"],
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@now/static-build"
+    }
+  ]
+}
