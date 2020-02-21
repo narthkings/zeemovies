@@ -1,7 +1,7 @@
 {
   "name": "zeemovies",
   "version": 2,
-  "alias": ["moviez"],
+  "alias": ["zeemovies"],
   "builds": [
     {
       "src": "package.json",
